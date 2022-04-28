@@ -7,6 +7,7 @@ public class AddTwoNumber {
 
 	public static void main(String[] args) {
 		add(10,20);
+		add(30,40);
 
 	}
 
